@@ -7,3 +7,5 @@ child5
 child6
 child7
 child8 in parent
+child9
+child10
